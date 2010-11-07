@@ -5,8 +5,8 @@
 %define		_requires_exceptions pear(../Dict.php)
 
 Name:		php-pear-%{upstream_name}
-Version:	1.0.6
-Release:	%mkrel 2
+Version:	1.0.7
+Release:	%mkrel 1
 Summary:	Interface to the DICT protocol
 License:	PHP License
 Group:		Development/PHP
